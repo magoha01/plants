@@ -4,9 +4,9 @@
   "scripts": {
     "start": "node index.js",
     "server": "nodemon index.js",
-    "migrate": "knex migrate:latest",
-    "rollback": "knex migrate:rollback",
-    "seed:dev": "knex seed:run",
+    "migrate:d": "knex migrate:latest",
+    "rollback:d": "knex migrate:rollback",
+    "seed:d": "knex seed:run",
     "migrate:h": "heroku run knex migrate:latest -a wet-my-plants-bw",
     "rollback:h": "heroku run knex migrate:rollback -a wet-my-plants-bw",
     "database:h": "heroku pg:psql -a wet-my-plants-bw",
