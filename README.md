@@ -40,8 +40,8 @@ Install [Postgres](https://www.postgresql.org/download/) on your computer, takin
 
 ## Starting a New Project
 
-- Create a new repository using this template, and clone it to your local.
-- Create a `.env` file and follow the instructions inside `knexfile.js`.
+X Create a new repository using this template, and clone it to your local.
+X Create a `.env` file and follow the instructions inside `knexfile.js`.
 - Fix the scripts inside `package.json` to use your Heroku app.
 
 ## Scripts
@@ -90,3 +90,5 @@ Install [Postgres](https://www.postgresql.org/download/) on your computer, takin
 The following demo explains how to set up a project using PostgreSQL and Heroku.
 
 [![Setting up PostgreSQL for Build Week](https://tk-assets.lambdaschool.com/e43c6d1e-5ae8-4142-937b-b865d71925fb_unit-4-build-week-project-scaffolding.png)](https://bloomtech-1.wistia.com/medias/2625bl7sei)
+
+change 
